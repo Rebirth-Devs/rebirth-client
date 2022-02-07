@@ -1,31 +1,22 @@
-Rebirth Public License
+Rebirth Public License, version 2.1
 
-Copyright (c) 2021, Rebirth-Devs
-All rights reserved.
+Copyright (c) 2022 Rebirth Devs. All rights reserved. Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed, unless you are making a new license for your code. Such licenses must state clearly
+that they are not created by or affiliated with Rebirth Devs, the creators of this License.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Any Software licensed under this License must disclose the unobfuscated, unaltered Source Code used by its developers to create the Software to 
+any and all users of the software. It must be easily accessible, and all users must be able to use the software in accordance with the Four 
+Essential Freedoms of Software:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. The freedom to run the program as you wish, for any purpose.
+2. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+3. The freedom to redistribute copies so you can help your neighbour.
+4. The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+You may not charge money, whether it be paper money, coinage, or cryptocurrency for the Software. Any derivative works or modifications of the Software must retain this License (or a subsequent version of the License) and all copyright notices verbatim. 
 
-3. Neither the name of the copyright holder, the names of this project,
-   nor the names of its contributors may be used to endorse or promote 
-   products derived from this software without specific prior written 
-   permission.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; COPYRIGHT INFRINGEMENT; OR BUSINESS 
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
-OUT OF THE USE OR CREATION OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
-OF SUCH DAMAGE.
+For legal purposes, the English version of the license takes precedence over any translated versions.
